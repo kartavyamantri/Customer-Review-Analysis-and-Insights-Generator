@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Large data files
+data/
+
+# === Model artifacts ===
+models/
+
+# IDE/editor configs
+.vscode/
