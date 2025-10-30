@@ -1,8 +1,8 @@
 # 🧠 Customer Review Analysis & Insights Generator
 
-> “Your customers are already telling you what they want — all you have to do is listen.”  
+> “Your customers are already telling you what they want - all you have to do is listen.”  
 
-Welcome to the **Customer Review Analysis & Insights Generator** — an end-to-end NLP and Generative AI project that transforms thousands of messy customer reviews into structured insights, visualizations, and AI-generated summaries.  
+Welcome to the **Customer Review Analysis & Insights Generator** - an end-to-end NLP and Generative AI project that transforms thousands of messy customer reviews into structured insights, visualizations, and AI-generated summaries.  
 
 This project bridges the gap between **data analytics** and **Generative AI**, helping businesses decode customer opinions and make smarter, data-driven decisions.
 
@@ -18,7 +18,7 @@ The goal of this project is to take **raw textual customer reviews** (e.g., from
 - Generate **AI-based summaries** for each topic using **Transformer models**  
 - Visualize insights interactively via a **Streamlit Dashboard**
 
-In short — it’s like turning an unstructured mess of text into a beautiful, data-backed story your product team can act on.
+In short, it’s like turning an unstructured mess of text into a beautiful, data-backed story your product team can act on.
 
 ---
 
@@ -40,7 +40,7 @@ Quantifies how customers feel about each topic (positive/negative/neutral).
 Generates concise summaries per topic using **Hugging Face Transformer models**.  
 
 📈 **Interactive Streamlit Dashboard**  
-Visualizes insights — word clouds, topic distributions, and sentiment trends — all in one place.  
+Visualizes insights - word clouds, topic distributions, and sentiment trends - all in one place.  
 
 ---
 
