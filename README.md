@@ -125,13 +125,13 @@ Output: topic keywords, word distribution, and dominant topic per review
 
 ### 🤖 Summarization Model
 
-Model: sshleifer/distilbart-cnn-12-6
+Model: pszemraj/long-t5-tglobal-base-16384-book-summary
 
 Framework: Hugging Face Transformers
 
-Task: Condenses each topic’s reviews into short summaries
+Task: Generates concise summaries for each topic by processing large volumes of customer reviews
 
-Token Handling: Text chunked to fit 1024-token context limit
+Token Handling: Supports up to 16,384 tokens, enabling summarization of long text chunks without excessive splitting
 
 ## 📈 Dashboard Preview
 
